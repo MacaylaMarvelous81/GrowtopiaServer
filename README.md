@@ -1,7 +1,8 @@
-# Growtopia Server ![Build Status](https://ci.appveyor.com/api/projects/status/github/GrowtopiaNoobs/GrowtopiaServer)
+# Growtopia Server
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical">
 First Growtopia Private Server made with ENet.
 
-This project has been compiled with Visual Studio 2015 (Visual Studio 2013 or older won't work!) and newer versions of VS or other compilers weren't been tested.
+This project has been compiled with Visual Studio 2019.
 
 This project has been published under GNU AFFERO GPL license, so you need to **publish whole source code and citate orginal authors name, even if you are using your server as service**!
 
@@ -17,5 +18,3 @@ This project has been published under GNU AFFERO GPL license, so you need to **p
 9. Disable all loging to console and log everything to file, this will free up console for CLI
 
 If you want to support development of this server, then make sure you contribute to this repo!
-
-Make that sure that you subscribe my channel https://www.youtube.com/channel/UCLXtuoBlrXFDRtFU8vPy35g and enjoy :+1:
