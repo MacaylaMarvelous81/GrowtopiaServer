@@ -2821,7 +2821,7 @@ label|Download Latest Version
 	int main()
 #endif
 {
-		addAdmin("admin", "jamil424#admin", 999);
+		addAdmin("admin", "password19992", 999);
 	cout << "Growtopia private server (c) Growtopia Noobs" << endl;
 		
 	cout << "Loading config from config.json" << endl;
