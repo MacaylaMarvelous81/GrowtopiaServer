@@ -1,5 +1,5 @@
 # Growtopia Server
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MacaylaMarvelous81&count_private=true&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MacaylaMarvelous81&show_icons=true&theme=radical&repo=GrowtopiaServer">
 First Growtopia Private Server made with ENet.
 
 This project has been compiled with Visual Studio 2019.
