@@ -36,6 +36,8 @@ OnSetPos: appendFloat (x, y).
 
 OnTextOverlay: appendString text.
 
+**OnStorePurchaseResult: appendString text**
+
 **ACTION LIST**
 
 action|AccountSecuritylocation|pausemenu
